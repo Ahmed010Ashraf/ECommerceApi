@@ -1,0 +1,15 @@
+D:\c#\Api\EcommerceApp\Core\ServicesAbstraction\bin\Debug\net8.0\ServicesAbstraction.deps.json
+D:\c#\Api\EcommerceApp\Core\ServicesAbstraction\bin\Debug\net8.0\ServicesAbstraction.dll
+D:\c#\Api\EcommerceApp\Core\ServicesAbstraction\bin\Debug\net8.0\ServicesAbstraction.pdb
+D:\c#\Api\EcommerceApp\Core\ServicesAbstraction\bin\Debug\net8.0\Shared.dll
+D:\c#\Api\EcommerceApp\Core\ServicesAbstraction\bin\Debug\net8.0\Shared.pdb
+D:\c#\Api\EcommerceApp\Core\ServicesAbstraction\obj\Debug\net8.0\ServicesAbstraction.csproj.AssemblyReference.cache
+D:\c#\Api\EcommerceApp\Core\ServicesAbstraction\obj\Debug\net8.0\ServicesAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Api\EcommerceApp\Core\ServicesAbstraction\obj\Debug\net8.0\ServicesAbstraction.AssemblyInfoInputs.cache
+D:\c#\Api\EcommerceApp\Core\ServicesAbstraction\obj\Debug\net8.0\ServicesAbstraction.AssemblyInfo.cs
+D:\c#\Api\EcommerceApp\Core\ServicesAbstraction\obj\Debug\net8.0\ServicesAbstraction.csproj.CoreCompileInputs.cache
+D:\c#\Api\EcommerceApp\Core\ServicesAbstraction\obj\Debug\net8.0\Services.38F65FC5.Up2Date
+D:\c#\Api\EcommerceApp\Core\ServicesAbstraction\obj\Debug\net8.0\ServicesAbstraction.dll
+D:\c#\Api\EcommerceApp\Core\ServicesAbstraction\obj\Debug\net8.0\refint\ServicesAbstraction.dll
+D:\c#\Api\EcommerceApp\Core\ServicesAbstraction\obj\Debug\net8.0\ServicesAbstraction.pdb
+D:\c#\Api\EcommerceApp\Core\ServicesAbstraction\obj\Debug\net8.0\ref\ServicesAbstraction.dll

@@ -1,0 +1,17 @@
+D:\c#\Api\EcommerceApp\Presentation\bin\Debug\net8.0\Presentation.deps.json
+D:\c#\Api\EcommerceApp\Presentation\bin\Debug\net8.0\Presentation.dll
+D:\c#\Api\EcommerceApp\Presentation\bin\Debug\net8.0\Presentation.pdb
+D:\c#\Api\EcommerceApp\Presentation\bin\Debug\net8.0\ServicesAbstraction.dll
+D:\c#\Api\EcommerceApp\Presentation\bin\Debug\net8.0\Shared.dll
+D:\c#\Api\EcommerceApp\Presentation\bin\Debug\net8.0\ServicesAbstraction.pdb
+D:\c#\Api\EcommerceApp\Presentation\bin\Debug\net8.0\Shared.pdb
+D:\c#\Api\EcommerceApp\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+D:\c#\Api\EcommerceApp\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Api\EcommerceApp\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+D:\c#\Api\EcommerceApp\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+D:\c#\Api\EcommerceApp\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+D:\c#\Api\EcommerceApp\Presentation\obj\Debug\net8.0\Presenta.BC777DBE.Up2Date
+D:\c#\Api\EcommerceApp\Presentation\obj\Debug\net8.0\Presentation.dll
+D:\c#\Api\EcommerceApp\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+D:\c#\Api\EcommerceApp\Presentation\obj\Debug\net8.0\Presentation.pdb
+D:\c#\Api\EcommerceApp\Presentation\obj\Debug\net8.0\ref\Presentation.dll
